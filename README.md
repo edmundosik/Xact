@@ -63,3 +63,6 @@ Additional info (if required):
 ![Gameplay](https://user-images.githubusercontent.com/50211092/131225129-e0b58591-c3be-4ade-a34b-67e5d7b539a5.png)
 
 ## License
+<p> Xact is licensed under GNU General Public License v3.0.
+<p> You can distribute this in any (please leave credits to this repository) way make any modifications but I can't give any warranty.
+<p> Full text you can find [here](https://github.com/edmundosik/Xact/blob/main/LICENSE)
