@@ -23,6 +23,8 @@
 t.window.width = 1024
 t.window.height = 600
 ```
+* If you want change key bindings then open in `config.cfg` file then find `firstKey` and `secondKey` options.
+* If you don't have `config.cfg` file then open Xact and that file will appear.
 
 ## Features
 - Simple skin support
@@ -37,6 +39,7 @@ t.window.height = 600
 - [ ] Healthbar
 - [ ] Proper scoring system
 - [ ] Star calculation
+- [ ] Combo colours support
 - [ ] Proper doubletime and halftime (they're sounds like nightcore and daycore)
 - [ ] Settings
 - [ ] Full skin support
@@ -44,6 +47,19 @@ t.window.height = 600
 - [ ] Get rid of [imgui](https://github.com/ocornut/imgui) libary
 - [ ] Maybe multiplayer support
 
+## Issues
+* If you have any error appeared then please write in that form:
+```
+OS:
+How to get that error or bug:
+Additional info (if required):
+```
+
+## Note
+* Please keep in mind that this port is very very unstable and is very unoptimized.
+
 ## Screenshots
 ![Mainmenu](https://user-images.githubusercontent.com/50211092/131225126-862fd58d-2211-4c74-b626-043b4ad13996.png)
 ![Gameplay](https://user-images.githubusercontent.com/50211092/131225129-e0b58591-c3be-4ade-a34b-67e5d7b539a5.png)
+
+## License
