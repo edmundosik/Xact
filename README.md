@@ -1,5 +1,5 @@
 # Xact
-**Xact** is unofficial an open-source osu! port on lua using LÖVE2D framework.
+**Xact** is an unofficial open-source osu! port on lua using LÖVE2D framework.
 
 ## How to play?
 ### Playing from source
